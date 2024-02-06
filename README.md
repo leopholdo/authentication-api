@@ -6,7 +6,7 @@ Este projeto visa demonstrar a implementação de um sistema de autenticação d
 
 ## Aviso importante
 
-Este repositório é somente a parte do back-end do projeto. Para funcionar do modo esperado, deve-se executar também a API que se encontra neste repositório: https://github.com/leopholdo/authentication-api
+Este repositório é somente a parte do back-end do projeto. Para funcionar do modo esperado, deve-se executar também a API que se encontra neste repositório: https://github.com/leopholdo/authentication-app
 
 
 ## Funcionalidades
@@ -73,7 +73,7 @@ Ou se preferir com o YARN,
 ```
 yarn dev
 ```
-- Abra o navegador e acesse a aplicação pelo endereço http://localhost:5101/auth
+- Abra o navegador e acesse a aplicação pelo endereço http://localhost:5101
 
 **Swagger-UI** (somente em DEV)
 - Abra o navegador e acesse o Swagger pelo endereço http://localhost:5398/swagger/index.html
